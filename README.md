@@ -1,8 +1,6 @@
 <h1 align="center">
 Hi, I'm Pablo Carbajal!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<!--<img src="https://komarev.com/ghpvc/?username=PabloCarbajal&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="PabloCarbajal" />-->
-<img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -12,6 +10,8 @@ Hi, I'm Pablo Carbajal!
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
+
+
 
 
 
@@ -47,7 +47,7 @@ PabloCarbajal@github
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-%23A8B9CC.svg?logo=c&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust%20-%23000000.svg?logo=rust&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust%20-%23DEA584.svg?logo=rust&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and Libraries
@@ -102,7 +102,9 @@ PabloCarbajal@github
 
 <p>
     <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
+    <a href="#"><img alt="Dell XPS 15" src="https://img.shields.io/badge/Dell-XPS%2015-007DB8?style=for-the-badge&logo=dell&logoColor=white"></a>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+    <a href="#"><img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 </p>
 
 
@@ -147,5 +149,4 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/notavai
 </table>
 
 ------
-
 
