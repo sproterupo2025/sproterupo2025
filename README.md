@@ -106,24 +106,16 @@ PabloCarbajal@github
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
     <a href="#"><img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Apple Magic Mouse" src="https://img.shields.io/badge/Apple-Magic_Mouse-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="#"><img alt="Apple Magic Keyboard" src="https://img.shields.io/badge/Apple-Magic_Keyboard-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="#"><img alt="Samsung Ultrawide Monitor" src="https://img.shields.io/badge/Samsung-Ultrawide_Monitor-1428A0?style=for-the-badge&logo=samsung&logoColor=white"></a>
     <a href="#"><img alt="Logitech MX Master 3" src="https://img.shields.io/badge/Logitech-MX_Master_3-00BFFF?style=for-the-badge&logo=logitech&logoColor=white"></a>
     <a href="#"><img alt="Microsoft Surface Pro" src="https://img.shields.io/badge/Microsoft-Surface_Pro-0078D6?style=for-the-badge&logo=microsoft&logoColor=white"></a>
-    <a href="#"><img alt="Wacom Intuos Pro" src="https://img.shields.io/badge/Wacom-Intuos_Pro-000000?style=for-the-badge&logo=wacom&logoColor=white"></a>
     <a href="#"><img alt="Blue Yeti Microphone" src="https://img.shields.io/badge/Blue_Yeti-Microphone-005EAD?style=for-the-badge&logo=blue&logoColor=white"></a>
     <a href="#"><img alt="Bose QC35 II" src="https://img.shields.io/badge/Bose-QC35_II-1A1A1A?style=for-the-badge&logo=bose&logoColor=white"></a>
     <a href="#"><img alt="Raspberry Pi 4" src="https://img.shields.io/badge/Raspberry_Pi-4B-CC0000?style=for-the-badge&logo=raspberry-pi&logoColor=white"></a>
-    <a href="#"><img alt="HP Envy 13" src="https://img.shields.io/badge/HP-Envy_13-0096D6?style=for-the-badge&logo=hp&logoColor=white"></a>
-    <a href="#"><img alt="Kinesis Advantage2" src="https://img.shields.io/badge/Kinesis-Advantage2-000000?style=for-the-badge&logo=kinesis&logoColor=white"></a>
-    <a href="#"><img alt="ErgoDox EZ" src="https://img.shields.io/badge/ErgoDox-EZ-000000?style=for-the-badge&logo=ergodox&logoColor=white"></a>
     <a href="#"><img alt="Alienware Aurora R10" src="https://img.shields.io/badge/Alienware-Aurora_R10-007DB8?style=for-the-badge&logo=alienware&logoColor=white"></a>
     <a href="#"><img alt="Corsair K95 RGB Platinum" src="https://img.shields.io/badge/Corsair-K95_RGB_Platinum-000000?style=for-the-badge&logo=corsair&logoColor=white"></a>
     <a href="#"><img alt="NVIDIA RTX 3080" src="https://img.shields.io/badge/NVIDIA-RTX_3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
-    <a href="#"><img alt="AMD Ryzen 9 5900X" src="https://img.shields.io/badge/AMD-Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
-    <a href="#"><img alt="Ubiquiti UniFi AP" src="https://img.shields.io/badge/Ubiquiti-UniFi_AP-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white"></a>
-    <a href="#"><img alt="Synology DS920+" src="https://img.shields.io/badge/Synology-DS920+-000000?style=for-the-badge&logo=synology&logoColor=white"></a>
 </p>
+
 
 
 ## GitHub Stats
@@ -150,7 +142,7 @@ PabloCarbajal@github
 
 If you have any questions about front-end web development, feel free to <a href="mailto:notavailable@example.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/notavailable">Fiverr</a> or <a href="https://www.linkedin.com/in/notavailable/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com">LinkedIn</a> to deploy your machine learning project on web.
 
   </td>
   <td width="50%" valign="top">
