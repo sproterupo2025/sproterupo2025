@@ -28,8 +28,7 @@ Hi, I'm Pablo Carbajal!
 🎹 Piano player 🎶
 ♟️ Chess enthusiast – Play on Chess.com
 🎵 Love metal, lofi, jazz, and soft music
-📩 Contact Me
-🔗 Discord: ssssher
+
 
 ```
 <hr>
