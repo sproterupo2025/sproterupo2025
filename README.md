@@ -1,16 +1,16 @@
 <h1 align="center">
-  Hi, I'm Pablo Carbajal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Saludo animado" />
+  Hi, I'm Pablo Carbajal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand" />
 </h1>
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Programming+Instructor;Software+Developer;Algorithms+%26+Machine+Learning+Enthusiast;Always+learning+new+things&center=true&width=620&height=45" alt="Presentación animada" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Engineering+Student+%40+UPC;C%2B%2B+%26+Algorithms+Enthusiast;Full+Stack+Developer+(Angular+%2B+Spring+Boot);Math+%2F+Programming+%2F+Piano+Tutor;Building+things+with+AI+as+a+pair-programmer&center=true&width=620&height=45" alt="Typing introduction" />
   </a>
 </p>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Ilustración de desarrollador" width="300" />
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Developer illustration" width="300" />
 
 ### 💻 About Me
 
@@ -72,10 +72,10 @@
 ### 🧰 Tools & Environment
 
 <p>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
@@ -100,4 +100,4 @@
 
 ---
 
-<p align="center">Gracias por visitar mi perfil.</p>
+<p align="center">Thanks for visiting my profile 🙌</p>
