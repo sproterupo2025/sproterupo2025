@@ -95,8 +95,10 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sproterupo2025&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Pablo's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sproterupo2025&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Pablo's most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sproterupo2025&theme=github_dark" alt="Pablo's GitHub profile summary" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sproterupo2025&theme=github-dark&hide_border=true" alt="Pablo's contribution streak" />
 </p>
 
 ## 🐍 GitHub Activity
