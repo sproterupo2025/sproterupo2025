@@ -6,9 +6,16 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Engineering+Student+%40+UPC;C%2B%2B+%26+Algorithms+Enthusiast;Full+Stack+Developer+(Angular+%2B+Spring+Boot);Math+%2F+Programming+%2F+Piano+Tutor;Building+things+with+AI+as+a+pair-programmer&center=true&width=620&height=45" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Math+%2F+Programming+%2F+Piano+Tutor&center=true&width=620&height=45" alt="Math, programming and piano tutor" />
   </a>
 </p>
+
+<table>
+<tr>
+<td width="320" valign="top"><img src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Developer illustration" width="300" /></td>
+<td valign="top"><h3>💻 About Me</h3><ul><li>🎓 Information Systems Engineering student at <strong>Universidad Peruana de Ciencias Aplicadas (UPC)</strong>, Monterrico campus.</li><li>👨‍🏫 Private tutor in <strong>mathematics, programming and piano</strong>.</li><li>🎹 Former student of the <strong>National Conservatory of Music of Peru</strong>; passionate about Chopin and Barenboim.</li><li>🃏 I practice <strong>card magic</strong> and solve Rubik's cubes.</li><li>🧠 Background in <strong>Olympiad mathematics (ONEM)</strong>: geometry, combinatorics and number theory.</li><li>🛠️ I build personal C++ projects — console games, language interpreters and algorithm visualizers — following my own coding style, the <strong>“Método Uribe”</strong> (Allman braces and separated declarations/definitions).</li><li>🚀 I enjoy teaching, learning continuously and turning difficult ideas into useful software.</li></ul></td>
+</tr>
+</table>
 
 ## 🛠️ Technologies & Knowledge
 
