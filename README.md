@@ -83,24 +83,6 @@
 - **Graph algorithms & paradigms:** Dijkstra, Bellman-Ford, Floyd-Warshall, Kruskal, Prim, Ford-Fulkerson, Dinic, dynamic programming, backtracking, greedy, divide & conquer, recursion and Big-O analysis.
 - **Technical exploration:** SFML, raylib, SDL2, Leaflet, geometry, combinatorics, number theory, mathematical logic and ML fundamentals.
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top"><h3>🐍 Python Course</h3><p>A beginner-friendly Python course with exercises for learning programming from the ground up.</p><a href="https://github.com/sproterupo2025/curso-python"><img src="https://img.shields.io/badge/View%20repository-3776AB?style=for-the-badge&logo=github&logoColor=white" alt="View Python course repository" /></a></td>
-<td width="50%" valign="top"><h3>👤 Profile README</h3><p>This profile repository: a living showcase of my technologies, projects and learning journey.</p><a href="https://github.com/sproterupo2025/sproterupo2025"><img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View profile repository" /></a></td>
-</tr>
-</table>
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sproterupo2025&theme=github_dark" alt="Pablo's GitHub profile summary" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sproterupo2025&theme=github-dark&hide_border=true" alt="Pablo's contribution streak" />
-</p>
-
 ## 🐍 GitHub Activity
 
 <p align="center">
@@ -111,9 +93,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <img width="880" alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/sproterupo2025/sproterupo2025/output/github-contribution-grid-snake.gif" />
-</p>
 
 ---
 
