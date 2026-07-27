@@ -10,19 +10,27 @@
   </a>
 </p>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Developer illustration" width="300" />
+<table>
+  <tr>
+    <td width="320" valign="top">
+      <img src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Developer illustration" width="300" />
+    </td>
+    <td valign="top">
 
-### 💻 About Me
+      <h3>💻 About Me</h3>
 
-- 🎓 Information Systems Engineering student at **Universidad Peruana de Ciencias Aplicadas (UPC)**, Monterrico campus.
-- 👨‍🏫 Private tutor in **mathematics, programming and piano**.
-- 🎹 Former student of the **National Conservatory of Music of Peru**; passionate about Chopin and Barenboim.
-- 🃏 I practice **card magic** and solve Rubik's cubes.
-- 🧠 Background in **Olympiad mathematics (ONEM)**: geometry, combinatorics and number theory.
-- 🛠️ I build personal C++ projects — console games, language interpreters and algorithm visualizers — following my own coding style, the **“Método Uribe”** (Allman braces and separated declarations/definitions).
-- 🚀 I enjoy teaching, learning continuously and turning difficult ideas into useful software.
-
-<br clear="left"/>
+      <ul>
+        <li>🎓 Information Systems Engineering student at <strong>Universidad Peruana de Ciencias Aplicadas (UPC)</strong>, Monterrico campus.</li>
+        <li>👨‍🏫 Private tutor in <strong>mathematics, programming and piano</strong>.</li>
+        <li>🎹 Former student of the <strong>National Conservatory of Music of Peru</strong>; passionate about Chopin and Barenboim.</li>
+        <li>🃏 I practice <strong>card magic</strong> and solve Rubik's cubes.</li>
+        <li>🧠 Background in <strong>Olympiad mathematics (ONEM)</strong>: geometry, combinatorics and number theory.</li>
+        <li>🛠️ I build personal C++ projects — console games, language interpreters and algorithm visualizers — following my own coding style, the <strong>“Método Uribe”</strong> (Allman braces and separated declarations/definitions).</li>
+        <li>🚀 I enjoy teaching, learning continuously and turning difficult ideas into useful software.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Technologies & Knowledge
 
