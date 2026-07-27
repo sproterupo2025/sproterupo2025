@@ -83,6 +83,22 @@
 - **Graph algorithms & paradigms:** Dijkstra, Bellman-Ford, Floyd-Warshall, Kruskal, Prim, Ford-Fulkerson, Dinic, dynamic programming, backtracking, greedy, divide & conquer, recursion and Big-O analysis.
 - **Technical exploration:** SFML, raylib, SDL2, Leaflet, geometry, combinatorics, number theory, mathematical logic and ML fundamentals.
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top"><h3>🐍 Python Course</h3><p>A beginner-friendly Python course with exercises for learning programming from the ground up.</p><a href="https://github.com/sproterupo2025/curso-python"><img src="https://img.shields.io/badge/View%20repository-3776AB?style=for-the-badge&logo=github&logoColor=white" alt="View Python course repository" /></a></td>
+<td width="50%" valign="top"><h3>👤 Profile README</h3><p>This profile repository: a living showcase of my technologies, projects and learning journey.</p><a href="https://github.com/sproterupo2025/sproterupo2025"><img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View profile repository" /></a></td>
+</tr>
+</table>
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sproterupo2025&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Pablo's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sproterupo2025&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Pablo's most used languages" />
+</p>
+
 ## 🐍 GitHub Activity
 
 <p align="center">
@@ -91,6 +107,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sproterupo2025/sproterupo2025/output/github-contribution-grid-snake.svg" />
     <img width="880" height="192" alt="Pablo's GitHub contribution snake animation" src="https://raw.githubusercontent.com/sproterupo2025/sproterupo2025/output/github-contribution-grid-snake.svg" />
   </picture>
+</p>
+
+<p align="center">
+  <img width="880" alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/sproterupo2025/sproterupo2025/output/github-contribution-grid-snake.gif" />
 </p>
 
 ---
