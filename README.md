@@ -1,19 +1,18 @@
 <h1 align="center">Hola, soy Pablo Carbajal 👋</h1>
 
 <p align="center">
-  <strong>Desarrollador de software | .NET · Angular · Java</strong>
-</p>
-
-<p align="center">
-  Creo aplicaciones de escritorio y web, con interés en soluciones claras, mantenibles y orientadas a las personas.
+  <strong>Estudiante de Ciencias de la Computación · Docente de programación · Desarrollador de software</strong>
 </p>
 
 ## Sobre mí
 
-- Desarrollo aplicaciones con **C#, .NET y Windows Forms**.
-- Construyo interfaces web con **Angular**, HTML y CSS.
-- También trabajo con **Java** y **C++**.
-- Me gusta aprender continuamente y convertir ideas en proyectos funcionales.
+Soy **Pablo Carbajal**, estudiante de Ciencias de la Computación y docente de programación. Disfruto explicar conceptos, aprender nuevas tecnologías y convertir ideas en aplicaciones útiles.
+
+Mi enfoque principal es el desarrollo de software: creo aplicaciones de escritorio con **C#, .NET y Windows Forms**, y experiencias web con **Angular**. También trabajo con **Java** y **C++**, fortaleciendo tanto la lógica como las buenas prácticas de programación.
+
+Actualmente sigo construyendo proyectos para mejorar como desarrollador, con interés en soluciones claras, mantenibles y enfocadas en las personas.
+
+**Me interesa:** desarrollo de aplicaciones, arquitectura de software, aprendizaje continuo y compartir conocimiento mediante la enseñanza.
 
 ## Tecnologías
 
